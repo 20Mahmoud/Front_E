@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+	
 #title{
 	background-color: #FF4C68;
 	color: #f9f7f7;
