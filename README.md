@@ -1,1 +1,1 @@
-TinDog Starting Files
+##A copy of TindDog website 
