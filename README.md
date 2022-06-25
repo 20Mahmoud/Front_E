@@ -1,1 +1,1 @@
-## A copy of TindDog website 
+## TindDog website clone
